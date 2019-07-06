@@ -244,12 +244,12 @@ body {
 
 
 .linkedin {
-    background: url("linked-in-logo.png"); 
+    background: url("../pictures/linked-in-logo.png"); 
     background-position: center center;
 }
 
 .github {
-  background: url("github_logo.png");
+  background: url("../pictures/github_logo.png");
   background-position: center center; 
 }
 
